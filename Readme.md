@@ -1,3 +1,5 @@
+Please do a **npm install** before project execution
+
 **RUN TEST**
 
 npm run test
